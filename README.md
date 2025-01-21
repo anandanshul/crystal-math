@@ -9,7 +9,7 @@ A simple, responsive web design project built using **TailwindCSS**, inspired by
 - **Customizable Components**: Easily adjustable via Tailwind's configuration.
 
 ## Live Demo
-[Check out the live demo here!](#) *(Replace with your actual link)*
+[https://crystall-math.netlify.app/](#)
 
 ## Setup and Installation
 1. Clone the repository:
